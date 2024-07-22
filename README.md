@@ -20,3 +20,9 @@ abilities or the latest best practices in the field.
 
 However, feel free to learn from this archived project, 
 preserved as it was during that specific period !
+
+## More Of My Content
+- [jdevfullstack Profile](https://github.com/jdevfullstack)
+- [jdevfullstack Repos](https://github.com/jdevfullstack?tab=repositories)
+- [jdevfullstack Projects](https://github.com/jdevfullstack-projects)
+- [jdevfullstack Tutorials](https://github.com/jdevfullstack-tutorials)
