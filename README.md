@@ -21,6 +21,10 @@ abilities or the latest best practices in the field.
 However, feel free to learn from this archived project, 
 preserved as it was during that specific period !
 
+## More Java Projects
+for more Java discussion and other details, 
+check the Main Page -> [Java](https://github.com/jdevfullstack/java)
+
 ## More Of My Content
 - [jdevfullstack Profile](https://github.com/jdevfullstack)
 - [jdevfullstack Repos](https://github.com/jdevfullstack?tab=repositories)
